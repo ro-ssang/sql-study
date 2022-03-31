@@ -12,6 +12,6 @@
 * 매일 오전 9시 30분에 구글 Meet에서 진행
 
 ## History
-|모임 날짜    |문제 번호                                                          |
-|:--        |:--                                                              |
-|2022/04/01 |[175](https://leetcode.com/problems/combine-two-tables/)         |
+|모임 날짜    |문제 번호                                                          |비고 |
+|:--        |:--                                                              |:-- |
+|2022/04/01 |[175](https://leetcode.com/problems/combine-two-tables/)         |진행중|
