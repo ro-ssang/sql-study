@@ -21,6 +21,7 @@
 * 매일 오전 9시 30분에 구글 Meet에서 진행
 
 ## History
-|모임 날짜    |문제 번호                                                          |비고 |
-|:--        |:--                                                              |:-- |
-|2022/04/01 |[175](https://leetcode.com/problems/combine-two-tables/)         |진행중|
+|모임 날짜|문제 번호|비고 |
+|:--|:--|:--|
+|2022/04/01 |[175](https://leetcode.com/problems/combine-two-tables/), [181](https://leetcode.com/problems/employees-earning-more-than-their-managers/)    |완료|
+|2022/04/04 |[182](https://leetcode.com/problems/duplicate-emails/), [183](https://leetcode.com/problems/customers-who-never-order/), [196](https://leetcode.com/problems/delete-duplicate-emails/)|진행중|
