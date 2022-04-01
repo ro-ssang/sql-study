@@ -20,5 +20,5 @@
 ## History
 |모임 날짜|문제 번호|비고 |
 |:--|:--|:--|
-|2022/04/01 |[175](https://leetcode.com/problems/combine-two-tables/), [181](https://leetcode.com/problems/employees-earning-more-than-their-managers/)    |완료|
+|2022/04/01 |[175](https://leetcode.com/problems/combine-two-tables/), [181](https://leetcode.com/problems/employees-earning-more-than-their-managers/), [182](https://leetcode.com/problems/duplicate-emails/), [183](https://leetcode.com/problems/customers-who-never-order/), [196](https://leetcode.com/problems/delete-duplicate-emails/), [197](https://leetcode.com/problems/rising-temperature/), [584](https://leetcode.com/problems/find-customer-referee/), [586](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)    |완료|
 |2022/04/04 |[182](https://leetcode.com/problems/duplicate-emails/), [183](https://leetcode.com/problems/customers-who-never-order/), [196](https://leetcode.com/problems/delete-duplicate-emails/)|진행중|
