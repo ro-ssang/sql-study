@@ -25,6 +25,6 @@ SELECT
 FROM Users u
 LEFT JOIN Rides r
 	ON r.user_id = u.id
-GROUP BY r.user_id 
+GROUP BY u.id 
 ORDER BY travelled_distance DESC, name ASC
 ;
