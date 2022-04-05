@@ -10,6 +10,7 @@ insert into Sales (seller_id, product_id, buyer_id, sale_date, quantity, price) 
 insert into Sales (seller_id, product_id, buyer_id, sale_date, quantity, price) values (2, 2, 3, '2019-06-02', 1, 800);
 insert into Sales (seller_id, product_id, buyer_id, sale_date, quantity, price) values (3, 3, 4, '2019-05-13', 2, 2800);
 
+-- 내가 푼 풀이
 SELECT 
 	p.product_id
 	,p.product_name 
@@ -24,4 +25,16 @@ WHERE p.product_id IN (
 		WHERE s2.sale_date NOT BETWEEN '2019-01-01' AND '2019-03-31'
 	)
 )
+;
+
+-- 정답
+SELECT 
+	p.product_id
+	,p.product_name 
+FROM Sales s
+LEFT JOIN Product p
+	ON s.product_id = p.product_id 
+GROUP BY s.product_id 
+HAVING MIN(s.sale_date) >= '2019-01-01'
+AND MAX(s.sale_date) <= '2019-03-31'
 ;
