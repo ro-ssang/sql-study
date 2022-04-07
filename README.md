@@ -24,5 +24,6 @@
 |2022/04/04 |[595](https://leetcode.com/problems/big-countries/), [596](https://leetcode.com/problems/classes-more-than-5-students/), [607](https://leetcode.com/problems/sales-person/)|완료|,
 |2022/04/05|[620](https://leetcode.com/problems/not-boring-movies/), [627](https://leetcode.com/problems/swap-salary/), [1050](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/), [1084](https://leetcode.com/problems/sales-analysis-iii/), [511](https://leetcode.com/problems/game-play-analysis-i/), [1141](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)|완료|
 |2022/04/06|[1148](https://leetcode.com/problems/article-views-i/),[1179](https://leetcode.com/problems/reformat-department-table/),[1407](https://leetcode.com/problems/top-travellers/)|완료|
-|2022/04/07|[1484](https://leetcode.com/problems/group-sold-products-by-the-date/),[1527](https://leetcode.com/problems/patients-with-a-condition/),[1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)|완료|
+|2022/04/07|[1484](https://leetcode.com/problems/group-sold-products-by-the-date/),[1527](https://leetcode.com/problems/patients-with-a-condition/),[1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)|완료|,
+|2022/04/08|[1587](https://leetcode.com/problems/bank-account-summary-ii/),[1667](https://leetcode.com/problems/fix-names-in-a-table/),[1693](https://leetcode.com/problems/daily-leads-and-partners/)|진행|
 
