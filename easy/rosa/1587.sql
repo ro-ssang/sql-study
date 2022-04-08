@@ -8,6 +8,7 @@ GROUP BY t.account
 HAVING SUM(t.amount) > 10000
 ;
 
+-- INNER JOIN을 활용한 풀이 방법
 SELECT
     u.name AS name,
     SUM(t.amount) AS balance
