@@ -14,3 +14,20 @@ BEGIN
         ), NULL
     );
 END
+
+-- LIMIT 활용
+CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
+BEGIN
+    DECLARE X INT;
+    
+    SELECT N - 1
+        INTO X;
+        
+    RETURN (
+        SELECT
+            DISTINCT e.salary
+        FROM Employee e
+        ORDER BY e.salary DESC
+        LIMIT X, 1
+    );
+END
