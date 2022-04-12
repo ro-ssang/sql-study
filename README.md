@@ -28,5 +28,6 @@
 |2022/04/08|[1587](https://leetcode.com/problems/bank-account-summary-ii/),[1667](https://leetcode.com/problems/fix-names-in-a-table/),[1693](https://leetcode.com/problems/daily-leads-and-partners/)|완료|,
 |2022/04/11|[1729](https://leetcode.com/problems/find-followers-count/),[1741](https://leetcode.com/problems/find-total-time-spent-by-each-employee/),[1757](https://leetcode.com/problems/recyclable-and-low-fat-products/),[1795](https://leetcode.com/problems/rearrange-products-table/),[1873](https://leetcode.com/problems/calculate-special-bonus/),[1890](https://leetcode.com/problems/the-latest-login-in-2020/)|진행|,
 |2022/04/12|[1965](https://leetcode.com/problems/employees-with-missing-information/),[176](https://leetcode.com/problems/second-highest-salary/),[177](https://leetcode.com/problems/nth-highest-salary/)|진행|,
-|2022/04/13|[178](https://leetcode.com/problems/rank-scores/),[180](https://leetcode.com/problems/consecutive-numbers/),[184](https://leetcode.com/problems/department-highest-salary/)|진행|
+|2022/04/13|[178](https://leetcode.com/problems/rank-scores/),[180](https://leetcode.com/problems/consecutive-numbers/),[184](https://leetcode.com/problems/department-highest-salary/)|진행|,
+|2022/04/14|[608](https://leetcode.com/problems/tree-node/),[626](https://leetcode.com/problems/exchange-seats/),[1158](https://leetcode.com/problems/market-analysis-i/)|진행|
 
