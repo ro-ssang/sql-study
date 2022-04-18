@@ -30,4 +30,4 @@
 |2022/04/12|[1965](https://leetcode.com/problems/employees-with-missing-information/),[176](https://leetcode.com/problems/second-highest-salary/),[177](https://leetcode.com/problems/nth-highest-salary/)|완료|,
 |2022/04/13|[178](https://leetcode.com/problems/rank-scores/),[180](https://leetcode.com/problems/consecutive-numbers/),[184](https://leetcode.com/problems/department-highest-salary/)|완료|,
 |2022/04/14|[608](https://leetcode.com/problems/tree-node/),[626](https://leetcode.com/problems/exchange-seats/),[1158](https://leetcode.com/problems/market-analysis-i/)|완료|
-
+|2022/04/18|[1393](https://leetcode.com/problems/capital-gainloss/),[185](https://leetcode.com/problems/department-top-three-salaries/),[262](https://leetcode.com/problems/trips-and-users/)|진행|
